@@ -1,13 +1,13 @@
 #tournament {
     padding: 6rem 2rem 0rem;
 
-    background: url("../../assets/images/sand_trap.jpg");
+    background: url("../../assets/images/golf_balls.jpg");
     background-size: cover;
     background-position: center;
     height: 100%;
 
     .background {
-        background-color: rgba(105, 105, 105, 0.45);
+        background-color: rgba(245, 245, 245, 0.95);
     }
 
     .trip-details {
@@ -29,7 +29,7 @@
         font-size: 6rem;
         font-weight: 800;
         text-align: center;
-        color: var(--white-color);
+        color: var(--darkGreen-color);
         text-shadow: -1px 0 black;
     
         @media screen and (max-width: 900px) {
