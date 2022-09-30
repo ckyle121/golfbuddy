@@ -28,11 +28,11 @@ http://www.whatsmyteetime.com/
 
 #### Master List 
 This master list was created for administrators to keep track of the members of their club. Administrators can add, delete, and email players to inform them about upcopming tournaments. They can also export the list into a CSV file. 
-![image](https://user-images.githubusercontent.com/75647359/193309168-78addc2e-24c8-4b5b-a924-fb29c3947434.png)
+![image](https://user-images.githubusercontent.com/75647359/193330774-2f701099-60ea-47ff-9571-2c8bcfcadf63.png)
 
 #### Player List
 Administrators can keep track of players who have paid their dues for the next tournament, add players to the tournament, add players to the waitlist, edit, and delete players. 
-![image](https://user-images.githubusercontent.com/75647359/193310676-8268bc94-18ed-4d99-b063-905252708beb.png)
+![image](https://user-images.githubusercontent.com/75647359/193330866-52e9e42d-227e-4525-9971-c7b4e194ca7a.png)
 
 ##### Mobile View of Player List
 ![image](https://user-images.githubusercontent.com/75647359/193330563-a3ce386d-f6a0-4e24-8551-ca110557b419.png)
