@@ -17,7 +17,6 @@ http://www.whatsmyteetime.com/
 - Nodemailer (npm package to send emails)
 
 ## Homepage
-
 ![image](https://user-images.githubusercontent.com/75647359/170369990-ee4fb222-374f-4859-bb18-1dfe5bc85a09.png)
 
 ## Administrator Pages
@@ -43,6 +42,10 @@ Administrator has the option to email the master list of the players list of tho
 #### Announcements Page
 Administrators can update this page regularly to keep players up to date. 
 ![image](https://user-images.githubusercontent.com/75647359/193310335-35dec88a-2c14-4dcf-8262-9bfc66a5f8b6.png)
+
+#### Create the Next Trip
+Administrator enter information about upcoming trips to be stored in the database. Depending on the next upcoming trip, information is posted to the website. 
+![image](https://user-images.githubusercontent.com/75647359/193311391-299a7bab-7404-46b2-aa63-02f1b7f6cc9b.png)
 
 
 ## Player Pages 
