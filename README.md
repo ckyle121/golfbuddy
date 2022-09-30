@@ -4,7 +4,7 @@ This website uses the MERN stack with a React front end, MongoDB database, and N
 
 ## Deployed Application
 
-https://whatsmyteetime.com/
+http://www.whatsmyteetime.com/
 
 ## Tehcnologies Used
 
@@ -19,3 +19,20 @@ https://whatsmyteetime.com/
 ## Homepage
 
 ![image](https://user-images.githubusercontent.com/75647359/170369990-ee4fb222-374f-4859-bb18-1dfe5bc85a09.png)
+
+## Administrator Pages
+#### Administrator Log In
+![image](https://user-images.githubusercontent.com/75647359/193308874-abe7ad74-3e1f-4cfe-ae3c-378d3580b7ca.png)
+
+#### Administrator Home Page
+![image](https://user-images.githubusercontent.com/75647359/193309078-3808d6b3-3900-473a-a3a6-eb40b0d1282b.png)
+
+#### Master List 
+This master list was created for administrators to keep track of the members of their club. Administrators can add, delete, and email players to inform them about upcopming tournaments. They can also export the list into a CSV file. 
+![image](https://user-images.githubusercontent.com/75647359/193309168-78addc2e-24c8-4b5b-a924-fb29c3947434.png)
+
+#### Email Players Page
+Administrator has the option to email the master list of the players list of those going on the trip. The emails come from a dedicated club email address. 
+![image](https://user-images.githubusercontent.com/75647359/193309571-be18db8e-f667-4e0c-82b6-1d1ef3999a12.png)
+
+## Player Pages 
