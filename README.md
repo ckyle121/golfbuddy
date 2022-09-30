@@ -34,6 +34,8 @@ This master list was created for administrators to keep track of the members of 
 Administrators can keep track of players who have paid their dues for the next tournament, add players to the tournament, add players to the waitlist, edit, and delete players. 
 ![image](https://user-images.githubusercontent.com/75647359/193310676-8268bc94-18ed-4d99-b063-905252708beb.png)
 
+##### Mobile View of Player List
+![image](https://user-images.githubusercontent.com/75647359/193330563-a3ce386d-f6a0-4e24-8551-ca110557b419.png)
 
 #### Email Players Page
 Administrator has the option to email the master list of the players list of those going on the trip. The emails come from a dedicated club email address. 
@@ -49,8 +51,22 @@ Administrator enter information about upcoming trips to be stored in the databas
 
 
 ## Player Pages 
+#### Player Log In
+![image](https://user-images.githubusercontent.com/75647359/193330324-5842a712-721f-47b0-86c2-5c7899a98e2b.png)
+
+##### Mobile view of player navigation 
+![image](https://user-images.githubusercontent.com/75647359/193330275-ffba0d09-b75a-47c4-b561-cca57ce74c89.png)
+
+#### Player Sign Up Page
+Easy sign up for players to select their accomodations. Once the trip has reached max capacity, players are added to the waitlist that the admninstrator can edit when space becomes available. 
+![image](https://user-images.githubusercontent.com/75647359/193329570-79a32c1e-9149-4e72-86d5-c18656bb0213.png)
+
+#### Trip Information Page
+All the info about hotel and course information on one page. 
+![image](https://user-images.githubusercontent.com/75647359/193329282-17baa5e6-f65f-4a98-b7b5-baa5047bc78a.png)
+![image](https://user-images.githubusercontent.com/75647359/193329343-62fa2a4d-5216-4491-aec5-397559c3cfea.png)
 
 #### Rules
 This page outlines the rules and regulations for the upcoming tournaments. Players can download the rules and print them to bring on the course if anything goes ary. 
 ![image](https://user-images.githubusercontent.com/75647359/193310117-5751604e-7835-40d9-96b0-6b8d9123026c.png)
-
+![image](https://user-images.githubusercontent.com/75647359/193329975-746278fd-1847-495b-ae70-bf8312df433a.png)
