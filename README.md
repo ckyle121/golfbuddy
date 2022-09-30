@@ -4,7 +4,7 @@ This website uses the MERN stack with a React front end, MongoDB database, and N
 
 ## Deployed Application
 
-https://whatsmyteetime.herokuapp.com/
+https://whatsmyteetime.com/
 
 ## Tehcnologies Used
 
